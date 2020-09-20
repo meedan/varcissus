@@ -1,3 +1,3 @@
 # varcissus
 
-Serveless AWS frontend to youtube-dl.
+Serverless AWS frontend to youtube-dl.
